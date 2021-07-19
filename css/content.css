@@ -1,0 +1,235 @@
+.Main-Content{
+    
+position: absolute;
+width: 974px;
+height: 766px;
+left: 233px;
+top: 67px;
+
+background: #FFFFFF;
+}
+
+.Page-title{
+    position: absolute;
+width: 345px;
+height: 28px;
+left: 315px;
+top: 25px;
+font-size: 24px;
+line-height: 28px;
+font-family: Roboto;
+font-weight: normal;
+color: #000000;
+
+
+}
+.news{
+
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+position:relative;
+
+
+top:89px;
+
+
+
+}
+.card-1{
+    position:absolute;
+    width: 498px;
+    height: 172px;
+    left: 238px;
+    top: 10px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+
+
+
+}
+.Card-meta{
+    
+position: absolute;
+width: 438.5px;
+height: 100px;
+left: 10px;
+top: 10px;
+
+
+
+}
+
+.cap-js-image{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+}
+.texst{
+    position: absolute;
+width: 328px;
+height: 79px;
+left: 110.5px;
+top: 0px;
+
+
+}
+.header-texst{
+    position: absolute;
+width: 176px;
+height: 21px;
+left: 0px;
+top: 0px;
+font-size: 18px;
+line-height: 21px;
+font-family: Roboto;
+color: #000000;
+font-weight: normal;
+
+}
+p{
+    position: absolute;
+width: 328px;
+height: 48px;
+left: 0px;
+top: 31px;
+font-family: Roboto;    
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.info{
+    
+position: absolute;
+width: 450px;
+height: 42px;
+left: 10px;
+top: 120px;
+
+
+}
+.buttoN{
+    border-radius: 6px;
+
+}
+button{
+    position: absolute;
+width: 123px;
+height: 31px;
+left: 327px;
+top: 5.5px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+font-family: Roboto;
+font-size: 14px;
+font-weight: normal;
+color: #000000;
+
+}
+.views{
+    position: absolute;
+width: 56px;
+height: 22px;
+left: 221px;
+top: 10px;
+
+
+}
+.number{
+    position: absolute;
+width: 24px;
+height: 16px;
+left: 32px;
+top: 3px;
+font-weight: normal;
+font-size: 14px;
+color: #000000;
+font-family: Roboto;
+}
+.image-eye{
+    position: absolute;
+width: 22px;
+height: 22px;
+left: 0px;
+top: 0px;
+display: flex;
+flex-wrap: wrap;
+color: black;
+    
+
+
+}
+.about-avtor{
+    position: absolute;
+width: 171px;
+height: 42px;
+left: 0px;
+top: 0px;
+
+
+
+}
+.name-avtor{
+    position: absolute;
+width: 90px;
+height: 16px;
+left: 0px;
+top: 13px;
+font-weight: normal;
+font-size: 14px;
+font-family: Roboto;
+color: #000000;
+white-space: nowrap
+}
+.date{
+    position: absolute;
+width: 71px;
+height: 16px;
+left: 100px;
+top: 13px;
+font-weight: normal;
+font-size: 14px;
+
+font-family: Roboto; 
+color: #000000;
+}
+
+
+.card-2{
+
+    position:absolute;
+    
+
+width: 498px;
+height: 172px;
+left: 238px;
+top: 206px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+
+
+}
+.card-3{
+    position: absolute;
+width: 498px;
+height: 172px;
+left: 238px;
+top: 402px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+}
